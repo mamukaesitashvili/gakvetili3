@@ -1,6 +1,6 @@
 .logo{
 	width:100px;
-	
+	vertical-align: middle;
 	display: inline-block;
 
 }
@@ -16,9 +16,11 @@
 	margin-left: 15px;
 }
 .image{
+
 	margin-top: 30px;
 	margin-bottom: 30px;
 	display: inline-block;
+	vertical-align: top;
 	}
 	.date{
 		font-size: 22px;
@@ -46,6 +48,8 @@ body{
 	margin-top: 30px;
 	}
 .article-p{
+
+	margin-left: 35px;
 	margin-bottom: 30px;
 	margin-top: 40px;
 	display: inline-block;
@@ -64,4 +68,26 @@ body{
 	margin-top:50px;
 	margin-left: 50px;
 }
+.logo14{
+	display: inline-block;
+	
 
+}
+
+.logo13{
+	display: inline-block;
+
+}
+.img{
+	height: 30px;
+	display: inline-block;
+	margin-top: 50px;
+	}
+
+.divider{
+     display: inline-block;
+     height: 30px;
+     width: 2px;
+     background-color: blue;
+     margin:0 30px;
+ }
