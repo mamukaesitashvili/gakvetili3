@@ -2,7 +2,21 @@
 	width:100px;
 	margin-left: 30px;
 	margin-top: 30px;
+	display: inline-block;
 }
 .witeli{
 	color: red;
 }
+.nav{
+	display: inline-block;
+	margin-left: 30px;
+
+}
+.nav-li{
+	display: inline-block;
+	margin-left: 15px;
+}
+.image{
+	margin-left: 30px;
+	margin-top: 30px;
+	
